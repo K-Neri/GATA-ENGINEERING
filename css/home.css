@@ -1,0 +1,127 @@
+body{
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+}
+#topsection{
+	padding: 30px 0;
+}
+
+
+#slogan{
+	
+	font-size: 40px;
+	text-shadow: -5px 5px darkgrey;
+	color: red;
+	font-family:Lucida Handwriting;
+	padding:30px;
+}
+
+
+/* .navbar-nav  li a{
+	color: black;
+} */
+
+#footer{
+	background-color: black;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 35px ;
+	
+}
+
+.myname{
+	color: red;
+}
+
+#blockquote{
+	border-left: 3px solid red;
+	padding-right: 5px;
+	color: red;
+	font-weight: bold;
+	
+	
+
+}
+
+
+#img1{
+	padding-top: 13%;
+}
+#img2{
+	padding-top: 13%;
+}
+#img3{
+	padding-top: 13%;
+}
+#img4{
+	padding-top: 13%;
+}
+#img5{
+	padding-top: 13%;
+}
+#img6{
+	padding-top: 13%;
+}
+.title{
+	color: red;
+	text-align: center;
+}
+.titles{
+	color: red;
+}
+.column{
+	text-align: justify;
+}
+#rightside{
+	padding-left: 10%;
+	text-align: center;
+}
+.pager{
+	margin:80px 0;
+}
+.more-content1{
+	display: none;
+	font-size: 20px;
+}
+.more-content2{
+	display: none;
+	font-size: 20px;
+}
+.more-content3,.more-content4{
+	display: none;
+	font-size: 20px;
+}
+.team-member{
+	font-weight: bold;
+	font-family: georgian;
+}
+.member img{
+	display: block;
+	margin: 0 auto;
+	padding: 10px;
+}
+.teampic{
+	border:5px solid red;
+	border-radius: 100%;
+	text-align: center;
+	margin-top: 30px ;
+}
+.maintitle
+{
+	color: red;
+}
+.team-members{
+	text-align: center;
+	padding: 30px 0px;
+}
+.readmore1,.readmore2,.readmore3,.readmore4{
+	font-size: 20px;
+}
+
+
+
